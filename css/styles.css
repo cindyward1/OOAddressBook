@@ -1,0 +1,21 @@
+#show-contact {
+  display: none;
+}
+
+.contact {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.contact:hover {
+  text-decoration: underline;
+}
+
+#show-contact ul {
+  text-indent: -39px;
+  list-style-type: none;
+}
+
+#show-contact li {
+  text-indent: -20px;
+}
